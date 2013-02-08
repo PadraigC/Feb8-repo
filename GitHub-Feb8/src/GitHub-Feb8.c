@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!GitHub Feb 28 *** V2"); /* prints !!!Hello World!!! */
+	puts("!!!GitHub Feb 28 *** V3"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
